@@ -1,0 +1,15 @@
+Names,Values
+PaddleMoveUnitsPerSecond,10
+BallImpulseForce,4
+DeathTimer,10
+SpawnTimeMin,5
+SpawnTimeMax,10
+MovmentTimer,1
+StandardBlock,100
+DoubleBlock,200
+SpawnChanceTrash,0.50
+SpawnChanceNormal,0.35
+SpawnChanceEpic,0.15
+Lifes,5
+EffectDuration,2
+SpeedBoost,2
